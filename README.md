@@ -17,7 +17,7 @@ A fully playable, text-based version of **Reversi (Othello)** built in Java with
 
 ## 📂 Project Structure
 
-reversi/
+<pre>reversi/
 ├── pom.xml
 ├── README.md
 ├── src/
@@ -30,3 +30,4 @@ reversi/
 │ │ | ├── App.java
 │ │ | ├── Game.java
 │ │ | └── MenuHandler.java
+</pre>
